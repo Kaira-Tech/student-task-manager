@@ -2,6 +2,7 @@
 
 ## A simple application designed to help students organize and track their academic tasks.
 
+===============================================
 ## Planned Features
 -Add task
 -view tasks
@@ -9,3 +10,5 @@
 -delete task
 -edit tasks
 -view efficiency of compliancy
+
+
